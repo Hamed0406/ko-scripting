@@ -24,14 +24,27 @@ man 2 your_command
 | Section number | Subject area |
 | ------ | ------ |
 | 1 | User commands |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| 2 | System calls |
+| 3 | Libary calls |
+| 4 | specialfiles |
+| 5 | File formats |
+| 6 | Games |
+| 7 | Miscellancous |
+| 8 | system admin |
+| 9 | kernel runtime |
 
 
-## commmands  
+### commmands  
+
+- pwd 
+- uname -n
+- ls
+- date +%T
+
+### System vaible 
+
+- $LOGNAME
+
 
 
 ## Usefull links 
