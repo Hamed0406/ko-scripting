@@ -1,13 +1,13 @@
 
+## Writer : ikm126 / Operation Team Sundsvall
 ## FileName : sql_file_aggregator.sh
 ## Last Modifation Date : 2022-10-14
 ## Describtion : it aggregated all file which needed for instalionons
 
 
 #!/bin/bash
-
-# cd 0
-# cd DB
+cd 0
+cd DB
 ## find all sql file witout revert name .
 find  -name  "*.sql" -not -name "*revert.sql" > SQLresult.sh
 ## remove 2 fist character from file name .

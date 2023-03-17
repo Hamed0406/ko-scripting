@@ -40,17 +40,26 @@ man 2 your_command
 - uname -n
 - ls
 - date +%T
+- ps
+- grep 
+- awk 
+- set -x
+- find
+- sed
+- rm
 
-### System vaible 
 
-- $LOGNAME
+### System Variables 
+
+- LOGNAME
+- IFS
 
 
 
-## Usefull links 
+### Usefull links 
 
-### Learn shell interactive 
+#### Learn shell interactive 
 Link [https://www.learnshell.org]
 
-### Learn Vi editor by game 
+#### Learn Vi editor by game 
 Link [https://vim-adventures.com]
