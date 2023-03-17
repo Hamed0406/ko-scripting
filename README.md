@@ -17,6 +17,8 @@ KO Utveckling Norr  2023-03-22
 
 ### Man page table number 
 
+For finding inforamtion about oprtion in commands or input ,we can use man. 
+
 ```sh
 man 2 your_command 
 ```
