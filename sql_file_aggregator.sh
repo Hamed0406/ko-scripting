@@ -1,10 +1,3 @@
-
-## Writer : ikm126 / Operation Team Sundsvall
-## FileName : sql_file_aggregator.sh
-## Last Modifation Date : 2022-10-14
-## Describtion : it aggregated all file which needed for instalionons
-
-
 #!/bin/bash
 cd 0
 cd DB
